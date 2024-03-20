@@ -1,0 +1,30 @@
+.mobileWallpaper{
+    background-image: url("https://www.instagram.com/static/images/homepage/screenshots/screenshot1-2x.png/cfd999368de3.png");
+    /*animation: changeBg 8s infinite;*/
+    border-radius: 1.4rem;
+}
+
+/*@keyframes changeBg {
+    0%{
+        background-image: url("https://www.instagram.com/static/images/homepage/screenshots/screenshot2-2x.png/80b8aebdea57.png");
+        border-radius: 1.4rem;
+    }
+
+    25%{
+        background-image: url("https://www.instagram.com/static/images/homepage/screenshots/screenshot3-2x.png/fe2540684ab2.png");
+        border-radius: 1.4rem;
+    }
+    
+    50%{
+        background-image: url("https://www.instagram.com/static/images/homepage/screenshots/screenshot4-2x.png/8e9224a71939.png");
+        border-radius: 1.4rem;
+    }
+    
+    75%{
+        background-image: url("https://res.cloudinary.com/dnbw04gbs/image/upload/v1679490783/screenshot2_m2zc0v.png");
+        border-radius: 1.4rem;
+    }
+
+
+    
+}*/
