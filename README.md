@@ -33,6 +33,7 @@ This project aims to replicate the core functionalities of Instagram, allowing u
 - Axios for RESTful API calls
 - React Router for client-side routing
 - Tailwind CSS
+- Bearer Token
 
 ## Getting Started
 
