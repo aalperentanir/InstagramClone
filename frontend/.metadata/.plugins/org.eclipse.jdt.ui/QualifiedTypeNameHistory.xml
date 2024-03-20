@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.security.web.SecurityFilterChain"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.builders.HttpSecurity"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.http.SessionCreationPolicy"/>
+    <fullyQualifiedTypeName name="org.springframework.http.HttpMethod"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.security.crypto.password.PasswordEncoder"/>
+    <fullyQualifiedTypeName name="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.context.SecurityContextHolder"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.Authentication"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.GrantedAuthority"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="instagramapi.config.SecurityContext"/>
+    <fullyQualifiedTypeName name="org.springframework.web.filter.OncePerRequestFilter"/>
+    <fullyQualifiedTypeName name="io.jsonwebtoken.security.Keys"/>
+    <fullyQualifiedTypeName name="javax.crypto.SecretKey"/>
+    <fullyQualifiedTypeName name="io.jsonwebtoken.Jwts"/>
+    <fullyQualifiedTypeName name="io.jsonwebtoken.Claims"/>
+</qualifiedTypeNameHistroy>

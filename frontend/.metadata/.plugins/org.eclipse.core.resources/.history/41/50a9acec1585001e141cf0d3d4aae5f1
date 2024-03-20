@@ -1,0 +1,5 @@
+package instagramapi.instagram.config;
+
+public class AppConfig {
+
+}
