@@ -46,7 +46,7 @@ To get a local copy of the project up and running, follow these steps:
 
 ## Usage
 
-Once the application is running, you can register a new account or log in with an existing one. Explore the various features such as uploading photos, following other users, liking and commenting on posts, and discovering new content on the explore page.
+Once the application is running, you can register a new account or log in with an existing one. Explore the various features such as uploading photos, following other users, liking and commenting on posts, and searching other accounts.
 
 
 
